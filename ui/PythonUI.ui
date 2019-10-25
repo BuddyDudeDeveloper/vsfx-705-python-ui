@@ -128,7 +128,7 @@
             </font>
            </property>
            <property name="text">
-            <string>Programming and Design by &lt;a href=&quot;https://github.com/pablohoneylatte&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#add8e6;&quot;&gt;Devon Ducharme&lt;/span&gt;&lt;/a&gt;</string>
+            <string>Programming and Design by &lt;a href=&quot;https://github.com/deyvahn&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#add8e6;&quot;&gt;Devon Ducharme&lt;/span&gt;&lt;/a&gt;</string>
            </property>
            <property name="alignment">
             <set>Qt::AlignCenter</set>
